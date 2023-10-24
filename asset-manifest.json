@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/iot_build_site/static/css/main.e6c13ad2.css",
-    "main.js": "/iot_build_site/static/js/main.b34e618c.js",
+    "main.js": "/iot_build_site/static/js/main.e755cb8f.js",
     "static/js/787.3d6da30c.chunk.js": "/iot_build_site/static/js/787.3d6da30c.chunk.js",
     "index.html": "/iot_build_site/index.html",
     "main.e6c13ad2.css.map": "/iot_build_site/static/css/main.e6c13ad2.css.map",
-    "main.b34e618c.js.map": "/iot_build_site/static/js/main.b34e618c.js.map",
+    "main.e755cb8f.js.map": "/iot_build_site/static/js/main.e755cb8f.js.map",
     "787.3d6da30c.chunk.js.map": "/iot_build_site/static/js/787.3d6da30c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.b34e618c.js"
+    "static/js/main.e755cb8f.js"
   ]
 }
